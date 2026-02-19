@@ -1,0 +1,40 @@
+{
+  "FAQData": [
+    {
+    "id": 1,
+    "type": ["general", "changelog"],
+    "question": "What is a business Consulting?",
+    "answer": "Business consulting involves providing expert advice to organizations to help them improve their performance and achieve their business objectives."
+  },
+  {
+    "id": 2,
+    "type": ["general"],
+    "question": "How can consulting services benefit my business?",
+    "answer": "Consulting services can provide insights, strategies, and solutions to address specific challenges, improve efficiency, enhance decision-making, and ultimately contribute to the overall success of your business."
+  },
+  {
+    "id": 3,
+    "type": ["general", "changelog"],
+    "question": "What specific services do you provide?",
+    "answer": "We offer a range of services, including strategic planning, financial advisory, operations optimization, market research, and more. Our goal is to tailor our services to meet the unique needs of each client."
+  },
+  {
+    "id": 4,
+    "type": ["general", "terms"],
+    "question": "How do you structure your fees?",
+    "answer": "Our fees are structured based on the scope and complexity of the project. We offer different pricing models, including hourly rates, project-based fees, and retainer agreements. The specific fee structure will be discussed and agreed upon during the initial consultation." 
+  },
+  { 
+    "id": 5,    
+    "type": ["general", "changelog", "terms"],
+    "question": "What industries do you specialize in?",
+    "answer": "We have experience and expertise across various industries, including but not limited to technology, finance, healthcare, retail, manufacturing, and professional services. Our consultants work closely with clients to understand industry-specific challenges and provide tailored accounting and tax solutions."
+  },   
+  {
+    "id": 6,
+    "type": ["general", "changelog", "terms"],
+    "question": "How long have you been in business?",
+    "answer": "Fiscalacts was founded in 2019 and has since established itself as a trusted FTA-approved partner for tax, accounting, and business consultancy services. With years of experience and a proven track record, we pride ourselves on delivering reliable and expert solutions to our clients across various sectors."  
+    }
+  ]
+}

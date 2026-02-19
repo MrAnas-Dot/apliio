@@ -1,0 +1,356 @@
+{
+  "ServiceData": [
+    {
+      "id": 1,
+      "slug": "business-setup",
+      "title": "Business Setup Services in Abu Dhabi & UAE",
+      "excerpt": "Mainland & Free Zone Company Formation - Start your business with confidence with FISCALACTS Accounting Services, trusted business setup consultants in Abu Dhabi.",
+      "iconLight": "/images/services/investment.svg",
+      "iconDark": "/images/services/investment-dark.svg",
+      "featureImage": "",
+      "videoLink": "",
+      "serviceDetails": "Start your business with confidence with FISCALACTS Accounting Services, trusted business setup consultants in Abu Dhabi. Whether you are a startup, entrepreneur, or expanding company, our experts ensure a smooth, fast, and compliant Abu Dhabi business setup process. Our business setup services in Abu Dhabi are designed to simplify complex procedures, reduce delays, and help you launch your business legally and efficiently across the UAE. Professional Company Formation Services in Abu Dhabi are our specialty.",
+      "serviceExpectation": "We provide complete end-to-end business setup support from initial consultation to ongoing compliance. Our team handles all government approvals, documentation, licensing, visa processing, and regulatory requirements. Whether you choose mainland or free zone setup, we ensure your business is legally established, fully operational, and compliant with all UAE regulations.",
+      "serviceExpectationList": [
+        {
+          "item": "Complete business setup consultation and structure guidance"
+        },
+        {
+          "item": "Mainland and Free Zone company formation with government approvals"
+        },
+        {
+          "item": "Trade licensing, visa processing, and immigration file setup"
+        },
+        {
+          "item": "Office space assistance and bank account opening support"
+        },
+        {
+          "item": "Ongoing compliance management and regulatory renewals"
+        }
+      ],
+      "serviceQualifications": "Our business setup team consists of experienced professionals with extensive expertise in business formation, regulatory compliance, UAE immigration law, and financial setup. We have successfully helped hundreds of startups and established businesses achieve their setup goals while maintaining full compliance with all UAE regulations. Our team stays updated with the latest UAE government procedures and requirements.",
+      "serviceQualificationsList": [
+        {
+          "item": "FTA Approved tax and business professionals with government credentials"
+        },
+        {
+          "item": "Business formation specialists with 10+ years of UAE company setup experience"
+        },
+        {
+          "item": "Immigration and regulatory compliance experts familiar with all UAE free zones and mainland requirements"
+        }
+      ]
+    },
+    {
+  "id": 2,
+  "slug": "accounting",
+  "title": "Account",
+  "excerpt": "Professional streamlined accounting solutions in Abu Dhabi to enhance internal processes and compliance.",
+  "iconLight": "/images/services/finance.svg",
+  "iconDark": "/images/services/finance-dark.svg",
+  "featureImage": "",
+  "videoLink": "",
+  "serviceDetails": "FISCALACTS Accounting Services offers professional streamlined accounting solutions in Abu Dhabi to help businesses overcome accounting challenges and enhance internal processes.",
+  "serviceExpectation": "Our services help businesses streamline accounting in Abu Dhabi, ensuring accurate financial records, standardized procedures, and efficient workflows. We focus on improving internal accounting processes while maintaining compliance with UAE regulations.",
+  "serviceExpectationList": [
+    { "item": "Backlog Accounting – Clear pending accounting work and reconcile past transactions." },
+    { "item": "Corrective Action Plans – Identify process gaps and implement improvements." },
+    { "item": "Restructuring of Chart of Accounts (COA) – Optimize reporting and financial management." },
+    { "item": "Accountant Training – Improve team efficiency and compliance." },
+    { "item": "Documentation & Filing Improvements – Standardize systems for audit readiness." },
+    { "item": "Accounting Software Migration – Upgrade systems for better reporting and automation." }
+  ],
+  "serviceQualifications": "Our streamlined accounting services are designed to improve efficiency, accuracy, and compliance with UAE regulations.",
+  "serviceQualificationsList": [
+    { "item": "Review and reconciliation of pending entries" },
+    { "item": "Prior period adjustments and error corrections" },
+    { "item": "Process inefficiency and risk analysis" },
+    { "item": "COA simplification and standardization" },
+    { "item": "UAE accounting standards training" },
+    { "item": "Organized audit-ready documentation" },
+    { "item": "Accounting software data migration and validation" }
+  ]
+},
+
+    {
+      "id": 3,
+      "slug": "hr-support",
+      "title": "HR Support",
+      "excerpt": "Complete HR solutions for recruitment, payroll, compliance, and employee management.",
+      "iconLight": "/images/services/loan.svg",
+      "iconDark": "/images/services/loan-dark.svg",
+      "featureImage": "/images/services/service-single1.png",
+      "videoLink": "https://www.youtube.com/embed/YE7VzlLtp-4?si=XvNRN6ztByvZQzqh",
+      "serviceDetails": "Fiscalacts provides comprehensive HR support services including recruitment, onboarding, employee relations, payroll processing, and regulatory compliance. We help you build and manage a strong workforce while ensuring compliance with labor laws and regulations. Our HR experts handle all aspects of human resource management.",
+      "serviceExpectation": "Our HR support includes recruitment assistance, contract management, payroll processing, benefits administration, and employee compliance. We ensure your HR operations run smoothly and your organization remains compliant with all employment regulations.",
+      "serviceExpectationList": [
+        {
+          "item": "Recruitment and onboarding support"
+        },
+        {
+          "item": "Payroll processing and management"
+        },
+        {
+          "item": "Employment compliance and documentation"
+        }
+      ],
+      "serviceQualifications": "Our HR professionals have extensive experience in employee relations, compliance, and organizational development. We understand local employment laws and best practices.",
+      "serviceQualificationsList": [
+        {
+          "item": "HR management specialists"
+        },
+        {
+          "item": "Employment law compliance experts"
+        },
+        {
+          "item": "Payroll processing professionals"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "comprehensive-accounting",
+      "title": "Comprehensive Outsourced Accounting",
+      "excerpt": "Full-service outsourced accounting for complete financial management and reporting.",
+      "iconLight": "/images/services/finance.svg",
+      "iconDark": "/images/services/finance-dark.svg",
+      "featureImage": "/images/services/service-single1.png",
+      "videoLink": "https://www.youtube.com/embed/YE7VzlLtp-4?si=XvNRN6ztByvZQzqh",
+      "serviceDetails": "Our comprehensive outsourced accounting service provides complete financial management. We handle all accounting functions including bookkeeping, financial analysis, cash flow management, and strategic financial planning. This service is ideal for businesses seeking to outsource their entire accounting function.",
+      "serviceExpectation": "We provide end-to-end accounting management including transaction processing, reconciliation, financial reporting, budgeting, and financial analysis. Your business gains access to experienced professionals while reducing overhead costs.",
+      "serviceExpectationList": [
+        {
+          "item": "Complete accounting function coverage"
+        },
+        {
+          "item": "Strategic financial planning"
+        },
+        {
+          "item": "Advanced financial analysis"
+        }
+      ],
+      "serviceQualifications": "Our comprehensive accounting team includes senior accountants and financial analysts with deep expertise in various business sectors.",
+      "serviceQualificationsList": [
+        {
+          "item": "Senior accounting professionals"
+        },
+        {
+          "item": "Financial analysis experts"
+        },
+        {
+          "item": "Business finance consultants"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "non-comprehensive-accounting",
+      "title": "Non Comprehensive Accounting Services",
+      "excerpt": "Flexible accounting solutions for specific accounting needs and requirements.",
+      "iconLight": "/images/services/effeciency.svg",
+      "iconDark": "/images/services/effeciency-dark.svg",
+      "featureImage": "/images/services/service-single1.png",
+      "videoLink": "https://www.youtube.com/embed/YE7VzlLtp-4?si=XvNRN6ztByvZQzqh",
+      "serviceDetails": "Our non-comprehensive accounting services allow you to choose specific accounting functions you need. Whether it's bookkeeping only, tax compliance, or financial statement preparation, we provide flexible solutions tailored to your requirements.",
+      "serviceExpectation": "Select the accounting services you need and we'll provide them with the same quality and professionalism as our comprehensive packages. This approach gives you flexibility and cost control.",
+      "serviceExpectationList": [
+        {
+          "item": "Flexible service selection"
+        },
+        {
+          "item": "Cost-effective solutions"
+        },
+        {
+          "item": "Tailored accounting support"
+        }
+      ],
+      "serviceQualifications": "We have accounting professionals specialized in various accounting areas, ready to support your specific needs.",
+      "serviceQualificationsList": [
+        {
+          "item": "Specialized accounting experts"
+        },
+        {
+          "item": "Flexible service providers"
+        },
+        {
+          "item": "Customized solution developers"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "financial-audit",
+      "title": "Financial Audit",
+      "excerpt": "Independent financial audit services to verify accuracy and compliance of your financial statements.",
+      "iconLight": "/images/services/fund.svg",
+      "iconDark": "/images/services/fund-dark.svg",
+      "featureImage": "/images/services/service-single1.png",
+      "videoLink": "https://www.youtube.com/embed/YE7VzlLtp-4?si=XvNRN6ztByvZQzqh",
+      "serviceDetails": "Fiscalacts provides independent financial audit services to assess the accuracy, completeness, and fairness of your financial statements. Our auditors conduct thorough examinations following professional standards to ensure compliance and provide stakeholders with confidence in your financial position.",
+      "serviceExpectation": "We conduct comprehensive audits of your financial records and statements, providing detailed audit reports that verify financial accuracy and compliance with accounting standards. Our reports are valuable for stakeholders and compliance purposes.",
+      "serviceExpectationList": [
+        {
+          "item": "Professional financial audit"
+        },
+        {
+          "item": "Compliance verification"
+        },
+        {
+          "item": "Detailed audit reports"
+        }
+      ],
+      "serviceQualifications": "Our auditors are certified professionals with extensive audit experience and deep knowledge of accounting standards and regulations.",
+      "serviceQualificationsList": [
+        {
+          "item": "Certified auditors"
+        },
+        {
+          "item": "Audit standards experts"
+        },
+        {
+          "item": "Financial analysis specialists"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "corporate-tax",
+      "title": "Corporate Tax",
+      "excerpt": "Strategic corporate tax planning and compliance services to minimize tax liability.",
+      "iconLight": "/images/services/investment.svg",
+      "iconDark": "/images/services/investment-dark.svg",
+      "featureImage": "/images/services/service-single1.png",
+      "videoLink": "https://www.youtube.com/embed/YE7VzlLtp-4?si=XvNRN6ztByvZQzqh",
+      "serviceDetails": "Our corporate tax services include tax planning, return preparation, tax compliance, and tax optimization strategies. We help your business minimize tax liability while ensuring full compliance with tax regulations. Our FTA-approved professionals stay updated with changing tax laws.",
+      "serviceExpectation": "We prepare accurate corporate tax returns, implement tax-efficient strategies, and ensure your company meets all tax obligations. Our proactive approach helps reduce tax burden and maximize profitability.",
+      "serviceExpectationList": [
+        {
+          "item": "Corporate tax return preparation"
+        },
+        {
+          "item": "Tax planning and optimization"
+        },
+        {
+          "item": "Tax compliance and filing"
+        }
+      ],
+      "serviceQualifications": "Our tax professionals are FTA-approved and have specialized expertise in corporate tax matters. We continuously monitor tax law changes.",
+      "serviceQualificationsList": [
+        {
+          "item": "FTA-approved tax professionals"
+        },
+        {
+          "item": "Corporate tax specialists"
+        },
+        {
+          "item": "Tax law experts"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "vat",
+      "title": "VAT",
+      "excerpt": "Complete VAT compliance and filing services for registered businesses.",
+      "iconLight": "/images/services/sales.svg",
+      "iconDark": "/images/services/sales-dark.svg",
+      "featureImage": "/images/services/service-single1.png",
+      "videoLink": "https://www.youtube.com/embed/YE7VzlLtp-4?si=XvNRN6ztByvZQzqh",
+      "serviceDetails": "Fiscalacts provides comprehensive VAT services including registration, return preparation, compliance, and advisory. We help businesses understand VAT obligations and maintain accurate VAT records. Our experts ensure timely filing and compliance with VAT regulations.",
+      "serviceExpectation": "We manage your VAT compliance including input/output tracking, return preparation, payment calculations, and filing. Our efficient processes ensure you never miss VAT deadlines and maintain proper documentation.",
+      "serviceExpectationList": [
+        {
+          "item": "VAT registration and management"
+        },
+        {
+          "item": "Return preparation and filing"
+        },
+        {
+          "item": "Compliance and advisory"
+        }
+      ],
+      "serviceQualifications": "Our VAT experts have deep knowledge of VAT regulations and maintain expert status with tax authorities.",
+      "serviceQualificationsList": [
+        {
+          "item": "VAT compliance experts"
+        },
+        {
+          "item": "Tax authority specialists"
+        },
+        {
+          "item": "Regulatory compliance professionals"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "slug": "support-consultation",
+      "title": "Support & Consultation",
+      "excerpt": "Expert consulting services for financial and tax-related business decisions.",
+      "iconLight": "/images/services/loan.svg",
+      "iconDark": "/images/services/loan-dark.svg",
+      "featureImage": "/images/services/service-single1.png",
+      "videoLink": "https://www.youtube.com/embed/YE7VzlLtp-4?si=XvNRN6ztByvZQzqh",
+      "serviceDetails": "Our support and consultation services provide expert guidance on financial management, tax planning, business growth strategies, and compliance matters. We work closely with your team to understand your business and provide customized recommendations.",
+      "serviceExpectation": "We offer ongoing support and strategic advice tailored to your business needs. Our consultants help you make informed decisions that enhance financial performance and ensure regulatory compliance.",
+      "serviceExpectationList": [
+        {
+          "item": "Strategic financial consulting"
+        },
+        {
+          "item": "Ongoing business support"
+        },
+        {
+          "item": "Decision-making guidance"
+        }
+      ],
+      "serviceQualifications": "Our consultants bring years of business experience and expertise across various industries.",
+      "serviceQualificationsList": [
+        {
+          "item": "Business consultants"
+        },
+        {
+          "item": "Financial advisors"
+        },
+        {
+          "item": "Tax strategists"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "slug": "statutory-services",
+      "title": "Statutory Services",
+      "excerpt": "Statutory compliance services including filings, certifications, and regulatory requirements.",
+      "iconLight": "/images/services/finance.svg",
+      "iconDark": "/images/services/finance-dark.svg",
+      "featureImage": "/images/services/service-single1.png",
+      "videoLink": "https://www.youtube.com/embed/YE7VzlLtp-4?si=XvNRN6ztByvZQzqh",
+      "serviceDetails": "We handle all statutory compliance requirements including annual filings, regulatory certifications, compliance reports, and regulatory approvals. Our experts ensure your business meets all statutory obligations and maintains proper documentation.",
+      "serviceExpectation": "Our statutory services ensure your business complies with all regulatory requirements. We manage filings, maintain compliance documentation, and keep you informed of regulatory changes affecting your business.",
+      "serviceExpectationList": [
+        {
+          "item": "Annual statutory filings"
+        },
+        {
+          "item": "Compliance certifications"
+        },
+        {
+          "item": "Regulatory compliance management"
+        }
+      ],
+      "serviceQualifications": "Our statutory compliance professionals have expertise in regulatory requirements and maintain up-to-date knowledge of regulatory changes.",
+      "serviceQualificationsList": [
+        {
+          "item": "Statutory compliance experts"
+        },
+        {
+          "item": "Regulatory affairs specialists"
+        },
+        {
+          "item": "Compliance documentation professionals"
+        }
+      ]
+    }
+  ]
+}
